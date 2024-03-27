@@ -1,0 +1,6 @@
+@WebAPIQuanLyCuDan_HostAddress = http://localhost:5217
+
+GET {{WebAPIQuanLyCuDan_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
